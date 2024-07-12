@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/premjithav/sim/static/css/main.4b1ab7ab.css",
-    "main.js": "/premjithav/sim/static/js/main.2b1cab44.js",
-    "static/js/453.d1c5f2d5.chunk.js": "/premjithav/sim/static/js/453.d1c5f2d5.chunk.js",
-    "static/media/logo.svg": "/premjithav/sim/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/premjithav/sim/index.html",
-    "main.4b1ab7ab.css.map": "/premjithav/sim/static/css/main.4b1ab7ab.css.map",
-    "main.2b1cab44.js.map": "/premjithav/sim/static/js/main.2b1cab44.js.map",
-    "453.d1c5f2d5.chunk.js.map": "/premjithav/sim/static/js/453.d1c5f2d5.chunk.js.map"
+    "main.css": "/sim/static/css/main.4b1ab7ab.css",
+    "main.js": "/sim/static/js/main.66ef3574.js",
+    "static/js/453.d1c5f2d5.chunk.js": "/sim/static/js/453.d1c5f2d5.chunk.js",
+    "static/media/logo.svg": "/sim/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sim/index.html",
+    "main.4b1ab7ab.css.map": "/sim/static/css/main.4b1ab7ab.css.map",
+    "main.66ef3574.js.map": "/sim/static/js/main.66ef3574.js.map",
+    "453.d1c5f2d5.chunk.js.map": "/sim/static/js/453.d1c5f2d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b1ab7ab.css",
-    "static/js/main.2b1cab44.js"
+    "static/js/main.66ef3574.js"
   ]
 }
